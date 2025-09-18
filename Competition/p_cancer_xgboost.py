@@ -1,5 +1,5 @@
 #https://dacon.io/competitions/official/236488/overview/description
-
+#갑상선암진단분류해커톤
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import StratifiedKFold
@@ -291,3 +291,4 @@ submission_csv['Cancer'] = y_submit
 
 #################### csv파일 만들기 #########################
 submission_csv.to_csv(path + 'submission_0622_2.csv') # CSV 만들기.
+
