@@ -1,4 +1,4 @@
-
+# 2025 전력사용량예측AI 경진대회
 ## 현재 optuna_params_extended  쓰면 최고점
 
 
@@ -862,3 +862,4 @@ print(f"📁 저장 완료 → {filename}")
 # xgb :{"n_estimators": 4701, "learning_rate": 0.06434039755833895, "max_depth": 10, "min_child_weight": 4.218069280691452, "gamma": 0.006526112584430506, "subsample": 0.7309758961217238, "colsample_bytree": 0.7908471806625494, "reg_alpha": 2.962180040227103e-06, "reg_lambda": 4.111231726100426}
 
 # twd :{"n_estimators": 9458, "learning_rate": 0.10878929479418055, "num_leaves": 681, "max_depth": 4, "subsample": 0.7531574170964376, "subsample_freq": 5, "colsample_bytree": 0.8780965340742359, "min_child_samples": 30, "min_split_gain": 0.42085621856679933, "reg_alpha": 0.28096879724368423, "reg_lambda": 27.348023513834548, "tweedie_variance_power": 1.4658936080473421}
+
