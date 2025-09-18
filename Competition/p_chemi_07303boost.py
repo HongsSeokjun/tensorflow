@@ -1,3 +1,4 @@
+#Boost up AI 2025:​ 신약개발경진대회
 import os
 import numpy as np
 import pandas as pd
@@ -386,4 +387,5 @@ if __name__ == '__main__':
 # [최종 학습 데이터 평가]
 # ✅ Normalized RMSE: 0.1458
 # ✅ Pearson Correlation: 0.8436
+
 # ✅ Combined Score: 0.8489
