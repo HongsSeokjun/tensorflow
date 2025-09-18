@@ -1,3 +1,4 @@
+# 퀀텀AI경진대회 2025.07.10 ~ 2025.08.05
 import multiprocessing
 import pennylane as qml
 import torch
@@ -251,3 +252,4 @@ if __name__ == '__main__':
     
     test_acc1 = accuracy_score(test_ds1, y_pred_final)
     print(f"finalTest Accuracy: {test_acc1:.4f}")
+
